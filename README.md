@@ -1,3 +1,3 @@
 # calculator
 ### Interactive calculator work example 
-![result](https://github.com/Elmo397/InteractiveCalculator/tree/master/src/main/resources/result.PNG)
+![example screenshot](https://github.com/Elmo397/TimerBot/blob/master/2pj7HsmSbS4.jpg) 
